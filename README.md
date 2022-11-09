@@ -14,7 +14,7 @@ This image shows the generator's appearance:
 
 ### Live Application Link
 
-* Click this [link](https://www.owasp.org/index.php/Password_special_characters) to access the password generator live.
+* Click this [link](https://alexozy.github.io/password_gen/) to access the password generator live.
 
 ## Contact Information
 
